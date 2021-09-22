@@ -1,0 +1,4 @@
+{
+  "plugins": ["new_task"],
+  "tasks": ["task_x", "task_y", "task_z", "new_task"]
+}
